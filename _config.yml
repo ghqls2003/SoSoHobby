@@ -13,8 +13,8 @@
 
 theme: jekyll-agency
 
-url    : "https://github.com/ghqls2003" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/sosoHobby" # the subpath of your site, e.g. /blog
+url    : https://github.com/ghqls2003 # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /sosoHobby # the subpath of your site, e.g. /blog
 
 title      : Ryong Hobbies
 email      : ghqls2003@naver.com #this is also the email contact forms will go to
