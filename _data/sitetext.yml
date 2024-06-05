@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: SoSoHobby
+    text: ㅅㅗㅅㅗ
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Hobbies"
     text: "Lorem ipsum"
-    section: services
+    section: hobbies
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -173,12 +173,12 @@ es: &DEFAULT_ES
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
     button: Ver más
-    buttonlink: "#servicios"
+    buttonlink: "#hobbies"
 
   services:
-    title: "Servicios"
+    title: "Hobbies"
     text: "Lorem ipsum"
-    section: servicios
+    section: hobbies
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
