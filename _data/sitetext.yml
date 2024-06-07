@@ -18,24 +18,33 @@ en: &DEFAULT_EN
 
   services:
     title: "Hobbies"
-    text: "all-rounder"
+    text: "romance all-rounder"
     section: hobbies
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "MotorCycle"
+        desc: "Fast & Slow"
+        icon: fas fa-motorcycle #find more at https://fontawesome.com/icons
+      - title: "Guitar"
+        desc: "Nectarous & Exciting"
+        icon: fas fa-guitar
+      - title: "Fishing"
+        desc: "Inner peace & Sensitive"
+        icon: fas fa-fish
+      - title: "Sports"
+        desc: "Dynaminc & Funny"
+        icon: fas fa-heart
+      - title: "Plant"
+        desc: "Wonder & Growth"
+        icon: fas fa-leaf
+      - title: "Puzzle&GunPla"
+        desc: "Concentration & Stress"
+        icon: fas fa-puzzle-piece
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    title: "Detail"
+    text: "picture & movie"
+    section: detail
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
