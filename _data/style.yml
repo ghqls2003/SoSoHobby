@@ -5,7 +5,6 @@
 
 #Image Customization
 header-image: "../img/main/sosoMain.jpg"
-contact-image: "../img/contact.png"
 portfolio-icon: fas fa-plus fa-3x
 
 # Add custom fonts
