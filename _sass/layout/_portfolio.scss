@@ -71,6 +71,27 @@
 }
 
 .portfolio-modal {
+      .toc {
+        display: inline-block;
+
+        min-width: 195px;
+        margin: 8px 0;
+        padding: 12px 24px;
+
+        text-align: left;
+        font-size: 16px;
+
+        li,
+        ol,
+        ul {
+            margin-left: .8em;
+            padding-left: 0;
+        }
+
+        &:hover {
+            border-width: 1.5px;
+        }
+    }
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
